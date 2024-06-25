@@ -2,10 +2,13 @@
 INTEGRADOR INTRODUCCION AL DWEB-GREGORIO MARTIN
 
 
-INTEGRANTES GREGORIO ALEJANDRO MARTIN
+INTEGRANTE: GREGORIO ALEJANDRO MARTIN
 
-Video demostracion
-https://youtu.be/dEVPKYSGD-c
+Video demostración https://youtu.be/dEVPKYSGD-c
 
-ZIP CON TODO EL PROYECTO ENTERO
-https://drive.google.com/file/d/1VI9jnSMp7JbSOo8unV7RuefocQ6cc7Xj/view?usp=sharing
+ZIP CON TODO EL PROYECTO ENTERO https://drive.google.com/file/d/1VI9jnSMp7JbSOo8unV7RuefocQ6cc7Xj/view?usp=sharing
+
+
+IDW-CHECKIN ADMIN
+usuario: admin
+contraseña: admin
